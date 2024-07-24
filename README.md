@@ -32,11 +32,17 @@ Recommendations Development: Based on the insights, data-driven recommendations 
 
 Microsoft Excel: For data cleaning, transformation, and basic analysis.
 Power BI: For advanced data visualization, interactive dashboarding, and in-depth analysis.
-Key Skills Demonstrated
+
+# Key Skills Demonstrated
 
 Data Modeling: Structuring the data into a coherent, analyzable format.
+
 Exploratory Data Analysis: Uncovering trends, patterns, and outliers in the data.
+
 Statistical Analysis: Leveraging advanced statistical techniques to derive meaningful insights.
+
 Data Visualization: Creating intuitive and informative visualizations to communicate findings.
+
 Insight Generation: Synthesizing analysis results into actionable business insights.
+
 Recommendation Development: Translating insights into data-driven recommendations to improve business performance.
