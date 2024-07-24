@@ -4,15 +4,15 @@ Abt is a corporate and retail company specializing in the sale and customization
 
 # Problem Statement
 
-Abt aims to enhance its operational efficiency, customer satisfaction, and increase revenue generation by analyzing transaction performance data. The key challenges include:
+Abt aims to enhance its operational efficiency,increase channel uptime, customer satisfaction, and increase revenue generation by analyzing transaction performance data. The key challenges include:
 
 Channel Performance: Evaluate the performance of different regions vis a vis product lines so as to optimize marketing strategies and resource allocation.
 
 Identify active and inactive terminals: Understanding what drives customer satisfaction and terminal usage. Analyze the ratio of performing to nonperforming terminals.
 
-Cost Management: Analyzing total costs of utilities such as paper rolls, deployment, and repair cost to identify opportunities for reducing expenses and improving profit margins.
+Cost Management: Analyzing total costs of utilities such as man power, paper rolls, deployment, and repair cost to identify opportunities for reducing expenses and maximising profit margins.
 
-Deployment Forecasting: Utilizing order quantities to predict future request and adjust deployment levels accordingly.
+Deployment Forecast: Utilizing order quantities to predict future request and adjust deployment levels accordingly.
 
 # Methodology
 
