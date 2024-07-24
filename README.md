@@ -34,19 +34,20 @@ Microsoft Excel: For data cleaning, transformation, and basic analysis.
 Power BI: For advanced data visualization, interactive dashboarding, and in-depth analysis.
 
 
-![Channel Performance Analysis](https://github.com/danielagbo44/Channels-Performance-Report-Dec-2022-and-Jan-2023.git)
+![Channel Performance Analysis](https://github.com/danielagbo44/Channels-Performance-Report-Dec-2022-and-Jan-2023/blob/main/Channels%20Performance%20Report%20PBI%20January%2C%202023_page-0001.jpg)
+
 
 
 ## Key Skills Demonstrated
 
 1. **Data Modeling**: Structuring the data into a coherent, analyzable format.
 
-Exploratory Data Analysis: Uncovering trends, patterns, and outliers in the data.
+2. **Exploratory Data Analysis**: Uncovering trends, patterns, and outliers in the data.
 
-Statistical Analysis: Leveraging advanced statistical techniques to derive meaningful insights.
+3. **Statistical Analysis**: Leveraging advanced statistical techniques to derive meaningful insights.
 
-Data Visualization: Creating intuitive and informative visualizations to communicate findings.
+4. **Data Visualization**: Creating intuitive and informative visualizations to communicate findings.
 
-Insight Generation: Synthesizing analysis results into actionable business insights.
+5. **Insight Generation**: Synthesizing analysis results into actionable business insights.
 
-Recommendation Development: Translating insights into data-driven recommendations to improve business performance.
+6. **Recommendation Development**: Translating insights into data-driven recommendations to improve business performance.
