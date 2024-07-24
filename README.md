@@ -6,31 +6,32 @@ Abt is a corporate and retail company specializing in the sale and customization
 
 Abt aims to enhance its operational efficiency,increase channel uptime, customer satisfaction, and increase revenue generation by analyzing transaction performance data. The key challenges include:
 
-Channel Performance: Evaluate the performance of different regions vis a vis product lines so as to optimize marketing strategies and resource allocation.
+1. Channel Performance: Evaluate the performance of different regions vis a vis product lines so as to optimize marketing strategies and resource allocation.
 
-Identify active and inactive terminals: Understanding what drives customer satisfaction and terminal usage. Analyze the ratio of performing to nonperforming terminals.
+2. Identify active and inactive terminals: Understanding what drives customer satisfaction and terminal usage. Analyze the ratio of performing to nonperforming terminals.
 
-Cost Management: Analyzing total costs of utilities such as man power, paper rolls, deployment, and repair cost to identify opportunities for reducing expenses and maximising profit margins.
+3. Cost Management: Analyzing total costs of utilities such as man power, paper rolls, deployment, and repair cost to identify opportunities for reducing expenses and maximising profit margins.
 
-Deployment Forecast: Utilizing order quantities to predict future request and adjust deployment levels accordingly.
+4. Deployment Forecast: Utilizing order quantities to predict future request and adjust deployment levels accordingly.
 
 ## Methodology
 
 The analysis was conducted using a combination of Excel and Power BI, leveraging various data analysis techniques:
 
-Data Modeling: The raw data was imported into Excel and Power BI, where it was transformed, cleaned, and structured into a coherent data model for analysis.
+1. **Data Modeling**: The raw data was imported into Excel and Power BI, where it was transformed, cleaned, and structured into a coherent data model for analysis.
 
-Exploratory Data Analysis (EDA): Extensive EDA was performed to understand the data, identify trends, and uncover hidden patterns. This included the use of pivot tables, charts, and other visualization techniques.
+2. **Exploratory Data Analysis (EDA)**: Extensive EDA was performed to understand the data, identify trends, and uncover hidden patterns. This included the use of pivot tables, charts, and other visualization techniques.
 
-Statistical Analysis: Advanced statistical methods, such as regression analysis and trend calculations, were employed to derive meaningful insights from the data.
+3. **Statistical Analysis**: Advanced statistical methods, such as regression analysis and trend calculations, were employed to derive meaningful insights from the data.
 
-Insights Generation: The findings from the EDA and statistical analysis were synthesized to generate actionable insights that could inform Abt's business strategy.
+4. **Insights Generation**: The findings from the EDA and statistical analysis were synthesized to generate actionable insights that could inform Abt's business strategy.
 
-Recommendations Development: Based on the insights, data-driven recommendations were formulated to help Abt optimize its operations, improve profitability, and enhance customer satisfaction.
+5. **Recommendations Development**: Based on the insights, data-driven recommendations were formulated to help Abt optimize its operations, improve profitability, and enhance customer satisfaction.
 
 ## Tools Used
 
 Microsoft Excel: For data cleaning, transformation, and basic analysis.
+
 Power BI: For advanced data visualization, interactive dashboarding, and in-depth analysis.
 
 
