@@ -1,10 +1,10 @@
 ## Channels-Performance-Report-Dec-2022-and-Jan-2023
 
-Abt is a corporate and retail company specializing in the sale and customization of electronic payment services. Established in 1998, Abt Sales has grown from a regional business to one of the leading payment service providers in its sector, known for its exceptional customer service and a wide range of products.
+Abt is a corporate and retail company specializing in the sale and customization of electronic payment services. Established in 1998, Abt Sales has grown from a regional business into one of the leading payment service providers in its sector, known for its exceptional customer service and wide range of products.
 
 ## Problem Statement
 
-Abt aims to enhance its operational efficiency,increase channel uptime, customer satisfaction, and increase revenue generation by analyzing transaction performance data. The key challenges include:
+Abt aims to enhance its operational efficiency, increase channel uptime, customer satisfaction, and increase revenue generation by analyzing month on month transaction performance data to identify trends and patterns. The key challenges include:
 
 1. Channel Performance: Evaluate the performance of different regions vis a vis product lines so as to optimize marketing strategies and resource allocation.
 
