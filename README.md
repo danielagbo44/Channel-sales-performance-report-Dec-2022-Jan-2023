@@ -1,8 +1,8 @@
-# Channels-Performance-Report-Dec-2022-and-Jan-2023
+## Channels-Performance-Report-Dec-2022-and-Jan-2023
 
 Abt is a corporate and retail company specializing in the sale and customization of electronic payment services. Established in 1998, Abt Sales has grown from a regional business to one of the leading payment service providers in its sector, known for its exceptional customer service and a wide range of products.
 
-# Problem Statement
+## Problem Statement
 
 Abt aims to enhance its operational efficiency,increase channel uptime, customer satisfaction, and increase revenue generation by analyzing transaction performance data. The key challenges include:
 
@@ -14,7 +14,7 @@ Cost Management: Analyzing total costs of utilities such as man power, paper rol
 
 Deployment Forecast: Utilizing order quantities to predict future request and adjust deployment levels accordingly.
 
-# Methodology
+## Methodology
 
 The analysis was conducted using a combination of Excel and Power BI, leveraging various data analysis techniques:
 
@@ -28,18 +28,18 @@ Insights Generation: The findings from the EDA and statistical analysis were syn
 
 Recommendations Development: Based on the insights, data-driven recommendations were formulated to help Abt optimize its operations, improve profitability, and enhance customer satisfaction.
 
-# Tools Used
+## Tools Used
 
 Microsoft Excel: For data cleaning, transformation, and basic analysis.
 Power BI: For advanced data visualization, interactive dashboarding, and in-depth analysis.
 
 
-![Channel Performance Analysis]()
+![Channel Performance Analysis](https://github.com/danielagbo44/Channels-Performance-Report-Dec-2022-and-Jan-2023.git)
 
 
-# Key Skills Demonstrated
+## Key Skills Demonstrated
 
-Data Modeling: Structuring the data into a coherent, analyzable format.
+1. **Data Modeling**: Structuring the data into a coherent, analyzable format.
 
 Exploratory Data Analysis: Uncovering trends, patterns, and outliers in the data.
 
