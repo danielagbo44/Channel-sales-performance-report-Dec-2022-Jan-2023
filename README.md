@@ -33,6 +33,10 @@ Recommendations Development: Based on the insights, data-driven recommendations 
 Microsoft Excel: For data cleaning, transformation, and basic analysis.
 Power BI: For advanced data visualization, interactive dashboarding, and in-depth analysis.
 
+
+![Channel Performance Analysis]()
+
+
 # Key Skills Demonstrated
 
 Data Modeling: Structuring the data into a coherent, analyzable format.
