@@ -54,7 +54,7 @@ Power BI: For advanced data visualization, interactive dashboarding, and in-dept
 6. **Recommendation Development**: Translating insights into data-driven recommendations to improve business performance.
 
 
-##Key Insights and Recommendations
+## Key Insights and Recommendations
 
 Based on the insights generated from the Abt company's data analysis, here are 7 recommendations:
 
