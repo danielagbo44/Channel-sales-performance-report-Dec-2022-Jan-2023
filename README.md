@@ -39,6 +39,7 @@ Power BI: For advanced data visualization, interactive dashboarding, and in-dept
 
 
 
+
 ## Key Skills Demonstrated
 
 1. **Data Modeling**: Structuring the data into a coherent, analyzable format.
