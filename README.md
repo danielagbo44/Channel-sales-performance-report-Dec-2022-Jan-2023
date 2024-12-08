@@ -1,4 +1,4 @@
-## Channels-Performance-Report-Dec-2022-and-Jan-2023
+## Point of Sale Performance Report Dec 2022 and Jan 2023
 
 Abt is a corporate and retail company specializing in the sale and customization of electronic payment services. Established in 1998, Abt Sales has grown from a regional business into one of the leading payment service providers in its sector, known for its exceptional customer service and wide range of products.
 
@@ -57,18 +57,20 @@ Power BI: For advanced data visualization, interactive dashboarding, and in-dept
 
 ## Key Insights and Recommendations
 
-Based on the insights generated from the Abt company's data analysis, here are 7 recommendations:
+Based on the insights generated from the Abt company's data analysis, here are seven recommendations:
 
 Investigate the reasons behind the lower revenue and order costs in January compared to February. Analyze the factors that contributed to the weaker financial performance for the period under review and see if there are any strategies that can be applied to improve performance in the future.
 
-1. Explore the factors behind the lower usage in February compared to January. Analyze customer behavior and preferences to understand how customers can be encouraged to make more purchases via point of sale, especially during traditionally slower months.
+1.  Investigate the reasons behind the lower revenue and order costs in January compared to February. Analyze the factors that contributed to the weaker financial performance for the period under review and see if there are any strategies that can be applied to improve performance in the future.
+   
+3. Explore the factors behind the lower usage in February compared to January. Analyze customer behavior and preferences to understand how customers can be encouraged to make more purchases via point of sale, especially during traditionally slower months.
 
-2. Continue to focus on and maximize the Wholesale channel, as it generated the highest proportion of revenue. Explore ways to further optimize and enhance the Wholesale channel to maintain high revenue generation.
+4. Continue to focus on and maximize the Wholesale channel, as it generated the highest proportion of revenue. Explore ways to further optimize and enhance the Wholesale channel to maintain high revenue generation.
 
-3. Closely monitor the performance of the ABC retail Stores, as it generated the highest revenue compared to other retail stores. Investigate the reasons behind its success and see how the practices and strategies used in this store can be replicated in others, particularly the underperforming one.
+5. Closely monitor the performance of the ABC retail Stores, as it generated the highest revenue compared to other retail stores. Investigate the reasons behind its success and see how the practices and strategies used in this store can be replicated in others, particularly the underperforming one.
 
-4. Prioritize the Fuel Stations, Wholesale and Distributor channels, as they contributed the most to total performance. Ensure that these channels are well serviced and efficiently managed to maintain customer preferences.
+6. Prioritize the Fuel Stations, Wholesale and Distributor channels, as they contributed the most to total performance. Ensure that these channels are well serviced and efficiently managed to maintain customer preferences.
 
-5. Analyze the factors driving the positive correlation between total terminal deployed and total revenue. Identify ways to further increase terminal deployment, as this directly impacts revenue generation.
+7. Analyze the factors driving the positive correlation between total terminal deployed and total revenue. Identify ways to further increase terminal deployment, as this directly impacts revenue generation.
 
-6. Explore the customer preference for products in Abj region, as they generated the highest revenue through the Wholesale and Distributor channels. Develop strategies to cross-sell and promote other channel usage to effectively maximize revenue.
+8. Explore the customer preference for products in Abj region, as they generated the highest revenue through the Wholesale and Distributor channels. Develop strategies to cross-sell and promote other channel usage to effectively maximize revenue.
