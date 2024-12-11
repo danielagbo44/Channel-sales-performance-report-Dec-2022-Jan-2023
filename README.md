@@ -59,9 +59,9 @@ Power BI: For advanced data visualization, interactive dashboarding, and in-dept
 
 Based on the insights generated from the Abt company's data analysis, here are seven recommendations:
 
-Investigate the reasons behind the lower revenue and order costs in January compared to February. Analyze the factors that contributed to the weaker financial performance for the period under review and see if there are any strategies that can be applied to improve performance in the future.
-
 1.  Investigate the reasons behind the lower revenue and order costs in January compared to February. Analyze the factors that contributed to the weaker financial performance for the period under review and see if there are any strategies that can be applied to improve performance in the future.
+
+2.  Investigate the reasons behind the lower revenue and order costs in January compared to February. Analyze the factors that contributed to the weaker financial performance for the period under review and see if there are any strategies that can be applied to improve performance in the future.
    
 3. Explore the factors behind the lower usage in February compared to January. Analyze customer behavior and preferences to understand how customers can be encouraged to make more purchases via point of sale, especially during traditionally slower months.
 
