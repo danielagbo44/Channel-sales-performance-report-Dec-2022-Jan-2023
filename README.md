@@ -1,4 +1,4 @@
-## Point of Sale Performance Report Dec 2022 and Jan 2023
+## Channel Sales Performance Report: December 2022 & January 2023
 
 Abt is a corporate and retail company specializing in the sale and customization of electronic payment services. Established in 1998, Abt Sales has grown from a regional business into one of the leading payment service providers in its sector, known for its exceptional customer service and wide range of products.
 
